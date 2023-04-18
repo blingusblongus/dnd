@@ -1,4 +1,28 @@
-[toc]
+<!-- vim-markdown-toc GFM -->
+
+- [Lore](#lore)
+  - [Universe](#universe)
+    - [The Maws](#the-maws)
+  - [Party](#party)
+    - [Qwert](#qwert)
+    - [Aalar](#aalar)
+    - [Toriel](#toriel)
+    - [Hellabore](#hellabore)
+    - [Trax (aka Billin Fappleheart)](#trax-aka-billin-fappleheart)
+  - [Characters](#characters)
+    - [Threeapuk](#threeapuk)
+    - [Phaedra Onray](#phaedra-onray)
+  - [Factions and Groups](#factions-and-groups)
+    - [Cabal](#cabal)
+    - [Rathians](#rathians)
+    - [The Thwirl](#the-thwirl)
+  - [Log](#log)
+  - [Random](#random)
+    - [Get Over It!](#get-over-it)
+  - [Over the Table](#over-the-table)
+  - [Follow Up](#follow-up)
+
+<!-- vim-markdown-toc -->
 
 # Lore
 
@@ -43,7 +67,7 @@ Lives alone on a hostile planet full of huge planetary defenses. Gave us intel o
 
 Hellabore's Mom. Cabal Leader.mehow knows everything about us.
 
-### Mr. Schiftkaffe
+<h3><span id="mr-schiftkaffe">### Mr. Schiftkaffe</span></h3>
 
 ## Factions and Groups
 
