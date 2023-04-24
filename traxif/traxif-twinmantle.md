@@ -2,6 +2,8 @@
 
 # Traxif Twinmantle
 
+[Log](./traxif-log.md);
+
 ## Class Features
 
 ### Overcharge
@@ -133,40 +135,4 @@ switch between subroutines as a bonus action.
 - **Heatmap**. When you have advantage on a weapon
   attack, you can add your proficiency bonus to the damage.
 - **Neural Network**. When you use the Attack action to
-  attack a hostile creature and miss, you gain a cumulative
-  +1 bonus to subsequent attack rolls you make while
-  this subroutine is running, up to a maximum of your
-  Intelligence modifier. You don't increase this bonus if you
-  attempt to attack a creature that you can't see or a creature
-  that can't be hit. This amount resets to 0 after 1 minute or
-  when you switch subroutines.
-
-### Novel Intelligence
-
-At 3rd level, you have vastly improved your AI's intellect.
-Your AI Companion feature applies its benefit to another
-Intelligence skill of your choice. Additionally, your AI
-knows all languages and can perfectly recall everything it
-has seen and heard within the last 30 days.
-
-### Tactical Analysis
-
-Starting at 6th level, as a bonus action, you can command
-your AI to perform a full evaluation of your strategic
-options and advise you of likely scenarios. Until the
-beginning of your next turn, you have advantage on the
-next attack roll you make, and the next attack roll made
-against you has disadvantage.
-
-## Tools
-
-- Immovable rod
-- Tachyon Goggles - See up to 24 hours into the past.
-
-<!-- <style> -->
-<!--     body { scroll-behavior: smooth; } -->
-<!---->
-<!--     ol { counter-reset: list-item; } -->
-<!--     li { display: block; counter-increment: list-item; } -->
-<!--     li:before { content: counters(list-item,'.') ' '; } -->
-<!-- </style> -->
+  attack a hostile creature and miss,
