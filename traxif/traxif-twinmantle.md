@@ -1,8 +1,22 @@
-[toc]
+<!-- vim-markdown-toc GFM -->
+
+- [Traxif Twinmantle](#traxif-twinmantle)
+  - [Class Features](#class-features)
+    - [Overcharge](#overcharge)
+    - [Prototype](#prototype)
+      - [**Utility Matrix**](#utility-matrix)
+  - [Gadgets](#gadgets)
+    - [Overheat Beacon](#overheat-beacon)
+    - [Adaptable Omnitool](#adaptable-omnitool)
+    - [Jump Pad](#jump-pad)
+  - [Tech Specialty - Futurist](#tech-specialty---futurist)
+    - [Advanced Subroutines](#advanced-subroutines)
+
+<!-- vim-markdown-toc -->
 
 # Traxif Twinmantle
 
-[Log](./traxif-log.md);
+- [Log](./traxif-log.md)
 
 ## Class Features
 
@@ -125,14 +139,4 @@ merely chirping up from time to time. Your AI can run any
 of the following subroutines, and you can command it to
 switch between subroutines as a bonus action.
 
-- **Genetic Algorithm**. When you take damage from a
-  hostile creature, subtract 1 from the damage dealt. Each
-  additional time you take damage while this subroutine is
-  running, the amount you subtract from the damage dealt
-  increases by 1, up to a maximum of your Intelligence
-  modifier. This amount resets to 1 after 1 minute or when
-  you switch subroutines.
-- **Heatmap**. When you have advantage on a weapon
-  attack, you can add your proficiency bonus to the damage.
-- **Neural Network**. When you use the Attack action to
-  attack a hostile creature and miss,
+- **Genetic Algorithm**. When you take d

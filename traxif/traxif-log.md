@@ -17,6 +17,8 @@
     - [Rathians](#rathians)
     - [The Thwirl](#the-thwirl)
   - [Log](#log)
+    - [2023-04-17](#2023-04-17)
+    - [2023-04-24](#2023-04-24)
   - [Random](#random)
     - [Get Over It!](#get-over-it)
   - [Over the Table](#over-the-table)
@@ -85,7 +87,8 @@ Cutie little purple squirrel animal, first encountered on Hence. Later, a stowaw
 
 We escaped the cabal heist successfully. In doing so, t
 
-2023-04-17
+### 2023-04-17
+
 Traveling on the ship post heist:
 
 I spent some time with Qwert, and discovered that he accidentally found a secret compartment on his own. He retained memories of it, even when I showed it to him the next day. However, when I tried to show him a different secret compartment right after, he shut down.
@@ -103,6 +106,10 @@ The next week, on the ship:
 - Take a crack at the encryption - I don't break it, but I learn a bit about the space that it's taking up in Mandlebrodt's systems. Mandlebrodt also knows it's there and can feel that space.
 
 We reach the automated astrogation facility, where Aalar claims we'll find the air density or whatever that wee need to
+
+### 2023-04-24
+
+The astrogation station seems to be actually
 
 ## Random
 
